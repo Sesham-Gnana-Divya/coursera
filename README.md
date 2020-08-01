@@ -1,1 +1,1 @@
-# module2
+# Coursera Practice assignments
